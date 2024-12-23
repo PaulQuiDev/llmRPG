@@ -15,9 +15,9 @@ To run the code using your GPU, follow these steps:
 2. Scroll down and click on "Advanced".
 3. In the "System" section, enable "Use hardware acceleration when available".
 4. Verify that GPU acceleration is working by visiting chrome://gpu.
-
 2. Select the Correct GPU
-If you have multiple GPUs, make sure to select the correct one from the Windows settings:
+   
+### If you have multiple GPUs, make sure to select the correct one from the Windows settings:
 1. Open Windows Settings.
 2. Go to "System" > "Display" > "Graphics settings".
 3. Select "Desktop app" and click "Browse" to find Google Chrome.
