@@ -1,5 +1,5 @@
 # llmRPG
-This project is an unfinished Role-Playing Game (RPG) that utilizes a Large Language Model (LLM) to generate interactive dialogues and actions. It is based on the example from WebLLM.
+This project is an unfinished Role-Playing Game (RPG) that utilizes a Large Language Model (LLM) to generate interactive dialogues and actions. It is based on the example from [WebLLM](https://github.com/mlc-ai/web-llm/tree/main/examples/simple-chat-js).
 
 ## Prerequisites
 
@@ -11,10 +11,10 @@ This project is an unfinished Role-Playing Game (RPG) that utilizes a Large Lang
 1. Enable GPU Acceleration in Google Chrome
 To run the code using your GPU, follow these steps:
 
-1. Open Google Chrome and go to chrome://settings.
+1. Open Google Chrome and go to [chrome://settings](chrome://settings).
 2. Scroll down and click on "Advanced".
 3. In the "System" section, enable "Use hardware acceleration when available".
-4. Verify that GPU acceleration is working by visiting chrome://gpu.
+4. Verify that GPU acceleration is working by visiting [chrome://gpu](chrome://gpu).
 2. Select the Correct GPU
    
 ### If you have multiple GPUs, make sure to select the correct one from the Windows settings:
